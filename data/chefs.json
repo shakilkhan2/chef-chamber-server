@@ -1,64 +1,62 @@
- [
-      {
-        "id": 1,
-        "picture": "https://example.com/chef1.jpg",
-        "name": "John Smith",
-        "experience_years": 10,
-        "num_recipes": 200,
-        "likes_ratings": 5000,
-        "rating_out_of_5": 4.8,
-        "bio": "Experienced chef with innovative approach to traditional dishes. Passionate about using fresh, locally sourced ingredients."
-      },
-      {
-        "id": 2,
-        "picture": "https://example.com/chef2.jpg",
-        "name": "Maria Rodriguez",
-        "experience_years": 8,
-        "num_recipes": 150,
-        "likes_ratings": 4000,
-        "rating_out_of_5": 4.7,
-        "bio": "Talented chef with mastery of traditional Latin American cuisine and creative approach to fusion dishes. Committed to using the freshest ingredients."
-      },
-      {
-        "id": 3,
-        "picture": "https://example.com/chef3.jpg",
-        "name": "David Lee",
-        "experience_years": 5,
-        "num_recipes": 100,
-        "likes_ratings": 3000,
-        "rating_out_of_5": 4.6,
-        "bio": "Young and talented chef with fresh and modern approach to Asian cuisine. Passionate about using seasonal ingredients."
-      },
-      {
-        "id": 4,
-        "picture": "https://example.com/chef4.jpg",
-        "name": "Sarah Johnson",
-        "experience_years": 12,
-        "num_recipes": 250,
-        "likes_ratings": 6000,
-        "rating_out_of_5": 4.9,
-        "bio": "Experienced chef with creative approach to comfort food. Passionate about using local and organic ingredients."
-      },
-      {
-        "id": 5,
-        "picture": "https://example.com/chef5.jpg",
-        "name": "Michael Chen",
-        "experience_years": 7,
-        "num_recipes": 120,
-        "likes_ratings": 3500,
-        "rating_out_of_5": 4.5,
-        "bio": "Talented chef with ability to create complex flavors using simple ingredients."
-      },
-      {
-        "id": 6,
-        "picture": "https://example.com/chef6.jpg",
-        "name": "Emma Davis",
-        "experience_years": 9,
-        "num_recipes": 180,
-        "likes_ratings": 4500,
-        "rating_out_of_5": 4.8,
-        "bio": "Creative chef with passion for experimenting with flavors. Dedicated to using high-quality, seasonal ingredients."
-      }
-    ]
-  
-  
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/HPNRmhL/c-1.jpg",
+    "name": "John Smith",
+    "experience_years": 10,
+    "num_recipes": 200,
+    "likes_ratings": 5000,
+    "rating_out_of_5": 4.8,
+    "bio": "Experienced chef with innovative approach to traditional dishes. Passionate about using fresh, locally sourced ingredients."
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/TLpT0Q2/c-4.jpg",
+    "name": "Maria Rodriguez",
+    "experience_years": 8,
+    "num_recipes": 150,
+    "likes_ratings": 4000,
+    "rating_out_of_5": 4.7,
+    "bio": "Talented chef with mastery of traditional Latin American cuisine and creative approach to fusion dishes. Committed to using the freshest ingredients."
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/KzGZ3wJ/c-3.jpg",
+    "name": "David Lee",
+    "experience_years": 5,
+    "num_recipes": 100,
+    "likes_ratings": 3000,
+    "rating_out_of_5": 4.6,
+    "bio": "Young and talented chef with fresh and modern approach to Asian cuisine. Passionate about using seasonal ingredients."
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/BfY0fTR/c-6.jpg",
+    "name": "Sarah Johnson",
+    "experience_years": 12,
+    "num_recipes": 250,
+    "likes_ratings": 6000,
+    "rating_out_of_5": 4.9,
+    "bio": "Experienced chef with creative approach to comfort food. Passionate about using local and organic ingredients."
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/0nJnrDd/c-2.jpg",
+    "name": "Michael Chen",
+    "experience_years": 7,
+    "num_recipes": 120,
+    "likes_ratings": 3500,
+    "rating_out_of_5": 4.5,
+    "bio": "Talented chef with ability to create complex flavors using simple ingredients."
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/TLpT0Q2/c-4.jpg",
+    "name": "Emma Davis",
+    "experience_years": 9,
+    "num_recipes": 180,
+    "likes_ratings": 4500,
+    "rating_out_of_5": 4.8,
+    "bio": "Creative chef with passion for experimenting with flavors. Dedicated to using high-quality, seasonal ingredients."
+  }
+]
