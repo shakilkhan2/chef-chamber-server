@@ -215,7 +215,7 @@
     "chef_id": 5,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
