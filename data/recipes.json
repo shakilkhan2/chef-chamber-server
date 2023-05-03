@@ -4,7 +4,7 @@
     "chef_id": 1,
     "name": "Classic Margherita Pizza",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/pjkq8y1/penne-pasta-with-tomato-sauce-with-sausage-tomatoes-green-basil-decorated-frying-pan-wooden-table.jpg",
     "ingredients": [
       "pizza dough",
       "tomato sauce",
@@ -20,7 +20,7 @@
     "chef_id": 1,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/pjkq8y1/penne-pasta-with-tomato-sauce-with-sausage-tomatoes-green-basil-decorated-frying-pan-wooden-table.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -34,9 +34,9 @@
   {
     "id": 3,
     "chef_id": 1,
-    "name": "Chocolate Chip Cookies",
+    "name": "Chicken Parata",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "all-purpose flour",
       "butter",
@@ -52,7 +52,7 @@
     "chef_id": 2,
     "name": "Beef Stroganoff",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "beef sirloin",
       "egg noodles",
@@ -68,7 +68,7 @@
     "chef_id": 2,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -84,7 +84,7 @@
     "chef_id": 2,
     "name": "Chocolate Chip Cookies",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "all-purpose flour",
       "butter",
@@ -100,7 +100,7 @@
     "chef_id": 3,
     "name": "Beef Stroganoff",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "beef sirloin",
       "egg noodles",
@@ -117,7 +117,7 @@
     "chef_id": 3,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -133,7 +133,7 @@
     "chef_id": 3,
     "name": "Chocolate Chip Cookies",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "all-purpose flour",
       "butter",
@@ -149,7 +149,7 @@
     "chef_id": 4,
     "name": "Beef Stroganoff",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "beef sirloin",
       "egg noodles",
@@ -166,7 +166,7 @@
     "chef_id": 4,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -182,7 +182,7 @@
     "chef_id": 4,
     "name": "Chocolate Chip Cookies",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg)",
     "ingredients": [
       "all-purpose flour",
       "butter",
@@ -198,7 +198,7 @@
     "chef_id": 5,
     "name": "Beef Stroganoff",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "beef sirloin",
       "egg noodles",
@@ -215,7 +215,7 @@
     "chef_id": 5,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -231,7 +231,7 @@
     "chef_id": 5,
     "name": "Chocolate Chip Cookies",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "all-purpose flour",
       "butter",
@@ -247,7 +247,7 @@
     "chef_id": 6,
     "name": "Beef Stroganoff",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "beef sirloin",
       "egg noodles",
@@ -264,7 +264,7 @@
     "chef_id": 6,
     "name": "Chicken Alfredo Pasta",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "fettuccine pasta",
       "chicken breast",
@@ -280,7 +280,7 @@
     "chef_id": 6,
     "name": "Chocolate Chip Cookies",
 
-    "picture": "[https://example.com/chef2.jpg](https://example.com/chef2.jpg)",
+    "picture": "https://i.ibb.co/nQ4p5WS/tacos-1613795-1920.jpg",
     "ingredients": [
       "all-purpose flour",
       "butter",
